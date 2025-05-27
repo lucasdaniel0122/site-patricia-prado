@@ -57,14 +57,14 @@ git clone https://github.com/lucasdaniel0122/site-patricia-prado.git
 2. Acesse a pasta do repositório:
 
 ```
-cd patricia
+cd site-patricia-prado
 
 ```
 
 3. Abra o arquivo index.html no navegador.
 
 ```
-start index.html -> se tiver usando Windows
+start index.html -> Windows
 
 xdg-open index.html -> Linux/macOS
 
