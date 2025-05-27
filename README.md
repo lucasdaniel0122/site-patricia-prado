@@ -50,10 +50,14 @@ Esta é uma página moderna e responsiva para uma loja de semijoias. Nele, os vi
 1. Clone este repositório:
 
 ``` 
-git clone https://github.com/lucasdaniel0122/nome-do-repositorio.git 
+git clone https://github.com/lucasdaniel0122/site-patricia-prado.git
+```
 
-2. Acesse a pasta do projeto:
+2. Acesse a pasta do repositório:
 
+```
 cd patricia
+```
 
-3. Abra o arquivo index.html no navegador ```
+3. Abra o arquivo index.hmtml no navegador.
+
