@@ -138,7 +138,7 @@ footer .copyright{
 
 /*RESPONSIVIDADE*/
 
-@media (max-width: 1200px){
+@media (max-width: 1020px){
     footer{
         width: 80%;
         padding: 10px;
