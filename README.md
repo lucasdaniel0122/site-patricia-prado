@@ -17,6 +17,9 @@
 
 Esta é uma página moderna e responsiva para uma loja de semijoias. Nele, os visitante podem visualizar e acessar rapidamente os canais de contato como WhatsApp, email e o site oficial.
 
+
+🌍 Site do Projeto: [Clique aqui para acessar o site do projeto](https://site-patricia-prado.vercel.app/)
+
 ---
 
 ## ✨ Funcionalidades
